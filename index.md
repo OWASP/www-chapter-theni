@@ -10,7 +10,7 @@ meetup-group:
 
 
 ## Welcome
-Include some information here about your chapter
+OWASP Theni Was Started On May, 2022. We Organized Metting, Webminars, Conferences And Workshops On Cyber Security And Releated Stuff. All Events Organized By Us Are Open To Everyone Who Is Intrested In Participating
 
 ## Participation
 The Open Web Application Security Project (OWASP) is a nonprofit foundation that works to improve the security of software. All of our projects ,tools, documents, forums, and chapters are free and open to anyone interested in improving application security. 
