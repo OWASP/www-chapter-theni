@@ -19,7 +19,7 @@ OWASP Theni Was Started On May, 2022. We Organized Metting, Webminars, Conferenc
 
 We schedule our meetings on the [OWASP THENI Meetup Group](Meeting Group)
 
-{%  %}
+
 
 Our meetings are open to the public, and you do not need to be a member to attend. Please do consider [joining OWASP](https://owasp.org/membership/) if you find our community, projects, and meetings valuable, or sponsoring this chapter.
 
