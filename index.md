@@ -6,7 +6,7 @@ site_side: true
 tags: Owasp-Theni
 country: India
 region: Asia
-meetup-group: owasp-theni
+meetup-group: owasp-theni-chapter
 level: 4 
 
 ---
